@@ -1475,8 +1475,8 @@ ArticulationBody:
     lowerLimit: -179.90875
     upperLimit: 179.90875
     stiffness: 1000
-    damping: 10
-    forceLimit: 100
+    damping: 0
+    forceLimit: 0
     target: 0
     targetVelocity: 0
   m_YDrive:
@@ -2962,8 +2962,8 @@ ArticulationBody:
     lowerLimit: -179.90875
     upperLimit: 179.90875
     stiffness: 1000
-    damping: 10
-    forceLimit: 100
+    damping: 0
+    forceLimit: 0
     target: 0
     targetVelocity: 0
   m_YDrive:
@@ -5307,8 +5307,8 @@ ArticulationBody:
     lowerLimit: -179.90875
     upperLimit: 179.90875
     stiffness: 1000
-    damping: 10
-    forceLimit: 100
+    damping: 0
+    forceLimit: 0
     target: 0
     targetVelocity: 0
   m_YDrive:
